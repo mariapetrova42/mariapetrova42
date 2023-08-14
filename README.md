@@ -1,4 +1,4 @@
-My name is Maria, and I'm currently a junior at Lake Forest College studying computer science, as well as mathematics and digital media design.
+My name is Maria, and I'm currently a senior at Lake Forest College studying computer science, as well as mathematics and digital media design.
 I hope to one day work as a web designer and developer. You can see some of my past coding projects here on Github. Check out http://csci.lakeforest.edu/~petrovam/greymare to see my work in the visual arts.
 
 Reach me at petrovam@lakeforest.edu, and check out my profile on LinkedIn at https://www.linkedin.com/in/maria-petrova42/.
